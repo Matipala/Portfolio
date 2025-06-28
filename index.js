@@ -11,8 +11,7 @@ globalThis.DOM = {};
 
 
 window.addEventListener("DOMContentLoaded", async () => {
-    let projects = await APIProject.getProjects();
-    ProjectList.getInstance().setProjects(projects);
+    await LocalStorage.loadProjects();
     Router.init();
 });
 
