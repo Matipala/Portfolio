@@ -40,11 +40,48 @@
     line-height: 1.75rem;
     max-width: 100%;
     flex-direction: column;
-    color: black;
+    color: rgb(87, 74, 74);
     border: 1px solid black;
 
 }
 
+.about-me__paragraph-view {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    max-width: 100%;
+    flex-direction: column;
+}
+
+.about-me__paragraph--clickeable {
+    cursor: pointer;
+}
+
+
+.about-me__paragraph--hidden {
+    display: none;
+}
+
+.about-me__list-style--inside {
+    list-style-position: inside;
+}
+
+.about-me__span-message {
+    color: rgb(196, 20, 20);
+}
+
+@media (max-width: 992px) {
+
+    .about-me {
+        flex-direction: column;
+        gap: 5rem;
+
+    }
+
+    .about-me__image {
+        display: none;
+    }
+}
 
 @media (max-width: 480px) {
 
@@ -83,7 +120,7 @@
 .profile__education,
 .profile__hobbies,
 .profile__skills {
-    background-color: #A0C878;
+    background-color: #1A1B22;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     width: 35rem;
