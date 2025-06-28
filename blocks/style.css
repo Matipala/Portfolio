@@ -7,6 +7,7 @@
 @import url('about-me/about-me.css');
 @import url('profile/profile.css');
 @import url('footer/footer.css');
+@import url('content/content.css');
 
 * {
     padding: 0;
