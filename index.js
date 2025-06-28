@@ -1,4 +1,4 @@
-import APIProject from "./services/apiProject.js";
+import APIProject from "./services/ApiProject.js";
 import ProjectList from "./services/ProjectList.js";
 import Router from "./services/Router.js";
 import HeroPage from "./blocks/hero/HeroPage.js";

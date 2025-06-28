@@ -132,7 +132,7 @@ a {
     border-radius: 20px;
     border: none;
     color: white;
-    background-color: #A0C878;
+    background-color: #1A1B22;
     font-weight: 700;
     font-size: 1rem;
     cursor: pointer;
@@ -146,7 +146,7 @@ a {
 
 .projects__save-icon--save {
     fill: white;
-    background-color: #A0C878;
+    background-color: #1A1B22;
 }
 
 .projects__heart-icon {

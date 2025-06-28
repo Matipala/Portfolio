@@ -1,5 +1,5 @@
 import ProjectList from "./ProjectList.js"
-import APIProject from "./apiProject.js";
+import APIProject from "./ApiProject.js";
 
 const projectList = ProjectList.getInstance();
 
