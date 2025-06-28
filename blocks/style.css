@@ -8,6 +8,12 @@
 @import url('profile/profile.css');
 @import url('footer/footer.css');
 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 html {
     padding: 0;
     margin: 0;
