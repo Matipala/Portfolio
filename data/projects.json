@@ -28,5 +28,25 @@
         "likes": "0",
         "save": "false",
         "like": "false"
+    },
+    {
+        "id": 4,
+        "imageURL": "assets/images/PostulacionDocente.png",
+        "title": "Postulacion Docente",
+        "content": "Plataforma para gestionar postulaciones a cargos docentes en instituciones educativas. Implementada con .Net, Angular, SQLServer, Figma.",
+        "githubURL": "https://github.com/Matipala",
+        "likes": "0",
+        "save": "false",
+        "like": "false"
+    },
+    {
+        "id": 5,
+        "imageURL": "assets/images/PostulacionDocente.png",
+        "title": "Postulacion Docente",
+        "content": "Plataforma para gestionar postulaciones a cargos docentes en instituciones educativas. Implementada con .Net, Angular, SQLServer, Figma.",
+        "githubURL": "https://github.com/Matipala",
+        "likes": "0",
+        "save": "false",
+        "like": "false"
     }
 ]
