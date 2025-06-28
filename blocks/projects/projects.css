@@ -1,0 +1,117 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+    width: 80%;
+}
+
+.projects__title {
+    font-size: 3.75rem;
+    color: #FFFFFF;
+    background-color: #1A1B22;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.projects__cards {
+    display: flex;
+    flex-direction: row;
+    gap: 3.25rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.projects__card {
+    width: 20.56rem;
+    height: 26.69rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.projects__card-image {
+    object-fit: contain;
+    max-width: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+
+.projects__card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 84.8%;
+}
+
+.projects__card-title {
+    color: #1A1B22;
+    font-size: 1.375rem;
+    font-weight: 300;
+}
+
+.projects__card-paragraph {
+    font-size: 0.75rem;
+    font-weight: 200;
+
+}
+
+
+.projects__card-button {
+    background-color: #1A1B22;
+    color: white;
+    border: none;
+    font-weight: 400;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    padding: 0.438rem 1.625rem;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 37.4%;
+}
+
+@media (max-width: 992px) {
+    .projects__card-button {
+        width: 50%;
+        margin-bottom: 0.5rem;
+    }
+
+    .projects__cards {
+        height: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .projects__cards {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .projects__title {
+        font-size: 1.875rem;
+
+    }
+}
+
+.linea-lados {
+    margin: 2em 0;
+    padding: 0 15em;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #333;
+
+    background:
+        linear-gradient(#999, #999) no-repeat left center / 40% 1px,
+        linear-gradient(#999, #999) no-repeat right center / 40% 1px;
+}
