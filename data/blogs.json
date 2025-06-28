@@ -1,0 +1,261 @@
+[
+    [
+        {
+            "id": 1,
+            "title": "Box Model en CSS",
+            "paragraph": "El Box Model es una herramienta fundamental para diseñar y construir interfaces de usuario. Conocer su funcionamiento y cómo aplicarlo a diferentes elementos de la interfaz es fundamental para crear diseños robustos",
+            "date": "16 de Mayo, 2025",
+            "image": "assets/image/blog2.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Metodologia Scrum",
+            "paragraph": "Scrum es una metodología de desarrollo ágil que se basa en el enfoque de la óptima utilización de los recursos humanos. Desarrollando software de manera ágil requiere una metodología flexible y adaptable a las necesidades de cada proyecto",
+            "date": "20 de Noviembre, 2024",
+            "image": "assets/image/Blog1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Presentacion Proyecto IA",
+            "paragraph": "El proyecto de IA es un proyecto que se centra en el desarrollo de sistemas de inteligencia artificial. El objetivo es crear sistemas que puedan realizar tareas específicas, como reconocimiento de imágenes, traducción automática de idiomas y reconocimiento de voz",
+            "date": "18 de Abril, 2025",
+            "image": "assets/image/blog3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "AI-native Web Development",
+            "paragraph": "La integración de IA en tiempo real en la experiencia web permite personalización y rendimiento mejorados mediante modelos de aprendizaje automático ejecutados en el frontend.",
+            "date": "27 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Composable Architecture",
+            "paragraph": "La arquitectura componible permite ensamblar servicios y módulos independientes para construir sistemas flexibles y escalables con piezas reutilizables.",
+            "date": "26 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 6,
+            "title": "Computación Cuántica en la Nube",
+            "paragraph": "La computación cuántica como servicio abre la puerta a algoritmos avanzados y cálculos de alta complejidad accesibles vía APIs en la nube.",
+            "date": "25 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 7,
+            "title": "5G Network Slicing",
+            "paragraph": "El slicing de red en 5G permite crear redes virtuales dedicadas con calidad de servicio garantizada para distintos casos de uso.",
+            "date": "24 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Data Mesh vs Data Fabric",
+            "paragraph": "Data mesh y data fabric ofrecen enfoques distintos para gestionar datos distribuidos y escalables, centrados en equipos descentralizados y abstracción unificada respectivamente.",
+            "date": "23 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 9,
+            "title": "DevSecOps Principles",
+            "paragraph": "Integrar seguridad desde el inicio del ciclo DevOps mejora la detección temprana de vulnerabilidades y garantiza despliegues más seguros y confiables.",
+            "date": "22 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Graph Neural Networks",
+            "paragraph": "Las redes neuronales de grafos permiten procesar datos con estructuras complejas, como redes sociales o moléculas, para tareas de clasificación y predicción.",
+            "date": "21 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 11,
+            "title": "Low-project Platforms",
+            "paragraph": "Las plataformas low-project aceleran el desarrollo de aplicaciones mediante interfaces visuales y componentes preconstruidos, empoderando a equipos no técnicos.",
+            "date": "20 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Realidad Aumentada en el eCommerce",
+            "paragraph": "La AR en el comercio electrónico mejora la experiencia de compra al permitir a los usuarios visualizar productos en su entorno antes de comprar.",
+            "date": "19 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Federated Learning",
+            "paragraph": "El aprendizaje federado permite entrenar modelos colaborativos sin compartir datos sensibles, preservando la privacidad y cumpliendo regulaciones.",
+            "date": "18 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Serverless Edge Functions",
+            "paragraph": "Las funciones serverless en el edge ofrecen baja latencia y escalabilidad automática para aplicaciones distribuidas en geografías múltiples.",
+            "date": "17 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Blockchain en Supply Chain",
+            "paragraph": "La blockchain mejora la trazabilidad y la transparencia en la cadena de suministro, reduciendo fraudes y optimizando procesos logísticos.",
+            "date": "16 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 16,
+            "title": "Service Mesh Patterns",
+            "paragraph": "Los service mesh gestionan la comunicación entre microservicios con políticas centralizadas de seguridad, balanceo de carga y monitoreo.",
+            "date": "15 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 17,
+            "title": "API Gateways vs BFFs",
+            "paragraph": "Comparación entre gateways de API generales y Backends For Frontends personalizados para optimizar el rendimiento y la seguridad en arquitecturas distribuidas.",
+            "date": "14 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Kubernetes Operators",
+            "paragraph": "Los operadores de Kubernetes automatizan tareas operativas específicas de la aplicación, extendiendo la API nativa con lógica de negocio.",
+            "date": "13 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Chaos Engineering",
+            "paragraph": "Aplicar Chaos Engineering introduce resiliencia proactiva al sistema mediante pruebas controladas de fallos y recuperación de servicios.",
+            "date": "12 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Estrategias Multi-cloud",
+            "paragraph": "Implementar estrategias multi-cloud evita vendor lock-in y optimiza costos distribuyendo cargas de trabajo según rendimiento y precio.",
+            "date": "11 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 21,
+            "title": "Gaming con WebGPU",
+            "paragraph": "WebGPU impulsa el desarrollo de gráficos de alta calidad en navegador, aprovechando la GPU para renderizado y cómputo paralelo.",
+            "date": "10 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Digital Twins",
+            "paragraph": "Los gemelos digitales replican entornos físicos en tiempo real, facilitando simulaciones y análisis predictivos para mantenimiento y optimización.",
+            "date": "9 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Infraestructura como Código",
+            "paragraph": "La IaC permite definir y gestionar entornos completos mediante archivos declarativos, garantizando reproducibilidad y versionado.",
+            "date": "8 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Platform Engineering",
+            "paragraph": "La ingeniería de plataformas crea herramientas internas estandarizadas que mejoran la productividad de desarrolladores y la fiabilidad de despliegues.",
+            "date": "7 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Zero Trust Security",
+            "paragraph": "El enfoque Zero Trust valida continuamente usuarios y dispositivos, minimizando riesgos mediante políticas de acceso estrictas y segmentación de red.",
+            "date": "6 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 26,
+            "title": "AI Ethics Frameworks",
+            "paragraph": "Los marcos de ética en IA guían el desarrollo responsable, abordando sesgos, transparencia y rendición de cuentas en sistemas inteligentes.",
+            "date": "5 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Edge Computing vs Cloud",
+            "paragraph": "Comparar edge computing con servicios en la nube para determinar cuándo procesar datos localmente o remotamente según latencia y ancho de banda.",
+            "date": "4 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Observabilidad Moderna",
+            "paragraph": "La observabilidad centralizada combina métricas, logs y trazas para ofrecer visibilidad completa y resolver problemas de manera proactiva.",
+            "date": "3 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Rust en Producción",
+            "paragraph": "El uso de Rust en entornos productivos garantiza seguridad de memoria y alto rendimiento, reduciendo errores comunes en tiempo de ejecución.",
+            "date": "2 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 30,
+            "title": "OpenAI GPT-4 Applications",
+            "paragraph": "Integrar GPT-4 en productos aporta capacidades de lenguaje natural avanzadas para chatbots, análisis de texto y generación de contenido.",
+            "date": "1 de Junio, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ],
+    [
+        {
+            "id": 31,
+            "title": "Micro Frontends",
+            "paragraph": "Los micro frontends dividen la interfaz en módulos autónomos, permitiendo equipos independientes y despliegues escalables.",
+            "date": "31 de Mayo, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 32,
+            "title": "DevOps Observability",
+            "paragraph": "Integrar observabilidad en pipelines DevOps garantiza entregas seguras y facilita la detección de fallas durante despliegues.",
+            "date": "30 de Mayo, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 33,
+            "title": "GraphQL Federation",
+            "paragraph": "Federar múltiples servicios GraphQL permite unificar esquemas y distribuir responsabilidades sin sacrificar rendimiento.",
+            "date": "29 de Mayo, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 34,
+            "title": "CI/CD con AI",
+            "paragraph": "Incorporar IA en pipelines de CI/CD optimiza pruebas, analiza resultados y sugiere mejoras automáticas en el código.",
+            "date": "28 de Mayo, 2025",
+            "image": "assets/image/project.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Sustainable Web Design",
+            "paragraph": "El diseño web sostenible aplica prácticas de optimización de recursos y accesibilidad para reducir la huella de carbono digital.",
+            "date": "27 de Mayo, 2025",
+            "image": "assets/image/project.jpg"
+        }
+    ]
+]
