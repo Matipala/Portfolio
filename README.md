@@ -50,4 +50,4 @@ Este proyecto representa un resumen de mi perfil profesional, demostrando mis ha
 
 ## Enlace al prototipo en Figma
 
-[Ver prototipo en Figma]([https://www.figma.com/](https://www.figma.com/design/UAxlA6dxeR3ZKIlomEbHoQ/Portafolio?node-id=0-1&t=UQAT6hiC43viEYt7-1))
+[Ver prototipo en Figma](https://www.figma.com/design/UAxlA6dxeR3ZKIlomEbHoQ/Portafolio?node-id=0-1&t=wbLkuHRSC11mkgmV-1)
